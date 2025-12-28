@@ -16,6 +16,11 @@ item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
 icon = ""
+title = "django-keycloak-oidc"
+url = "https://github.com/karnameh-tech/django-keycloak-oidc"
+description = "Fork of mozilla-django-oidc and modified to map keycloak roles / groups to django user permissions / groups."
+[[sections.items]]
+icon = ""
 title = "Djson-form"
 url = "https://github.com/karnameh-tech/djson-form"
 description = "Easily generate forms for Django JSONField in admin"
